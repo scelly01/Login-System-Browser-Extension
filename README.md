@@ -1,5 +1,8 @@
 # Login-System-Browser-Extension
 
+Basic Login System Browser Extension using Javascript, NodeJs, Express and Manifest V2.
+
+
 ![image](https://github.com/scelly01/Login-System-Browser-Extension/assets/92203911/96edb295-6bc2-43ad-92c6-24421fdbe2ed)
 ![image](https://github.com/scelly01/Login-System-Browser-Extension/assets/92203911/6cebc50d-08c6-48f3-9126-3fecea5d49ce)
 ![image](https://github.com/scelly01/Login-System-Browser-Extension/assets/92203911/f5e17713-a65c-436b-86e9-c1321f94adad)
