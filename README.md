@@ -1,6 +1,7 @@
 # Login-System-Browser-Extension
 
-Basic Login System Browser Extension using Javascript, NodeJs, Express and Manifest V2.
+Client Side and Server Side scripts for a database agnostic Basic Login System Browser Extension.
+Using Javascript, Nodejs, Express and Manifest V2.
 
 
 ![image](https://github.com/scelly01/Login-System-Browser-Extension/assets/92203911/96edb295-6bc2-43ad-92c6-24421fdbe2ed)
